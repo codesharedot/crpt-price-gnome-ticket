@@ -1,5 +1,8 @@
-# crpt price gnome ticket 
+# crpt gnome price ticker
 
-Gnome 3 desktop ticker for crpt price with Python and argos. Rename to crpt.1r.60s.py and put in ~/.config/argos
+Get crpt price in Python [https://pythonbasics.org](https://pythonbasics.org).
+See [https://codesharedot.github.io/crpt-price-gnome-ticket/](https://codesharedot.github.io/crpt-price-gnome-ticket/)
 
-https://pythonbasics.org
+crpt price ticker for Gnome desktop. Gets the price with Python and argos.
+
+Rename to crpt.1r60s.py and put in ~/.config/argos
